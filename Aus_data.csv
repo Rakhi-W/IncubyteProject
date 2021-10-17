@@ -1,0 +1,4 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,956,Kriston,2021-09-07,2022-09-04,MVD,Bob,VIC,AU,1990-08-13,A
+1,959,Joe,2021-09-09,2022-09-04,MVD,Rob,VIC,AU,1989-12-08,A
+2,966,Cherry,2021-09-05,2022-09-06,MVD,John,VIC,AU,1990-11-12,A

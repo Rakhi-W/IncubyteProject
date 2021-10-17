@@ -1,0 +1,3 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,967,Suzan,2021-09-05,2022-09-04,MVD,Suzie,PN,JPN,1993-05-12,A
+1,969,Shin,2021-09-05,2022-09-04,MVD,Harry,PN,JPN,1993-05-12,A

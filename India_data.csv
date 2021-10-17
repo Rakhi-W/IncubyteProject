@@ -1,0 +1,4 @@
+,Customer_Id,Customer_Name,Open_date,Last_Consulted_Date,Vaccination_Id,Dr_Name,State,Country,DOB,Is_Active
+0,124,Rakhi,2021-10-03,2022-10-04,COV,Gaikwad,MH,IND,1997-08-18,A
+1,962,Rajan,2021-09-10,2022-09-04,MVD,CV,PB,IND,1992-11-18,A
+2,970,Rushikesh,2021-09-10,2022-09-04,MVD,COV,KL,IND,1998-11-18,A
